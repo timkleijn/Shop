@@ -1,9 +1,9 @@
 {
-  "name": "winkel",
+  "name": "shop",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://timkleijn.github.io/Winkel/",
+  "homepage": "https://timkleijn.github.io/shop/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
