@@ -18,7 +18,7 @@ export const Shop = () => {
           <div className='sm:sticky sm:top-20 p-4 w-full'>
             <img src={Cartoon} className='object-cover' />
             <div className='bg-primary bg-opacity-10'>
-              <p className='text-lg px-4 pt-4 mb-2 italic '>“Door bij Buurtwinkel te kopen weet ik precies waar mijn groenten en vlees vandaan komen. Veilige en gezonde producten van betrouwbare producenten.”
+              <p className='text-lg px-4 pt-4 mb-2 italic '>“Lekker en makkelijk! Met één druk op de knop besteld en de volgende dag thuisbezorgd. We hebben heerlijk gekookt!”
 </p>
               <p className='pb-4 px-4 font-bold text-lg italic'>Petra van S.</p>
               <div className='flex px-4 pb-4 justify-between'>
