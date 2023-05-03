@@ -1,5 +1,5 @@
 import React from 'react'
-import hedonistisch from '../../assets/Hedonistisch.jpg'
+import hedonistisch from '../../assets/Hedonistisch.png'
 
 export const Hero = () => {
   return (
